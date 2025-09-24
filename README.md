@@ -13,3 +13,7 @@ HTML,CSS AND JS
 HOW TO PLAY
 My project will be a simple Hangman game where the computer picks a random word. The player guesses letters, correct guesses reveal the word, and wrong guesses reduce lives until the player wins or losesAlso it will pick other words and so on ...
 
+
+
+
+
